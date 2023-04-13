@@ -1,1 +1,1 @@
-# Res-Small-clone-project
+# Res-Small-project
